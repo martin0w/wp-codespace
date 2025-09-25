@@ -1,7 +1,7 @@
-Note 2025-09-25: This setup does not appear to be working.
+*Note 2025-09-25: This setup does not appear to be working.
 - Pros: Successful MySQL installation with PHPAdmin available on port 81.
 - Cons: Apache server seems to be up and running, but does not return a WP page.
-- Cons: Port 3306 is defunct.
+- Cons: Port 3306 is defunct.*
 
 
 # WordPress Codespace Dev Environment
